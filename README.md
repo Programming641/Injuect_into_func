@@ -14,3 +14,24 @@ I will look for all java files under the specified top directory
 
 # cautions
 some functions that span multiple line are not supported yet
+
+function pattern 3, which is 
+
+functionName() {
+
+is not supported yet
+
+Because I used maven source code as a test material, pattern 3 barely appeared in maven source code
+fuctions in maven source code has the frequent style of
+
+functionName() 
+
+{
+
+  statement;
+  some statement;
+  :
+  :
+
+}
+
