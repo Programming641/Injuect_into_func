@@ -13,9 +13,9 @@ python3 inject_func.py (top directory of java project )
 it will look for all java files under the specified top directory
 
 # cautions
-some functions that span multiple line are not supported yet
+。some functions that span multiple line are not supported yet
 
-function pattern 3, which is 
+・function pattern 3, which is 
 
 functionName() {
 
