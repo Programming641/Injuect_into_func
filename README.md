@@ -10,7 +10,7 @@ in linux
 
 python3 inject_func.py (top directory of java project )
 
-I will look for all java files under the specified top directory
+it will look for all java files under the specified top directory
 
 # cautions
 some functions that span multiple line are not supported yet
