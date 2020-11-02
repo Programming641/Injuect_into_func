@@ -29,11 +29,8 @@ functionName()
 {
 
   statement;
-  
   some statement;
-  
   :
-  
   :
 
 }
