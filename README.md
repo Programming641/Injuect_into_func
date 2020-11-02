@@ -4,8 +4,8 @@ inject debug print statement into every java functions! ( some functions are not
 # insructions
 execute inject_func.py with java top directory commandline parameter
 
-for example
-in linux
+for example \n
+in linux \n
 python3 inject_func.py (top directory of java project )
 
 I will look for all java files under the specified top directory
