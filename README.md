@@ -21,8 +21,8 @@ functionName() {
 
 is not supported yet
 
-Because I used maven source code as a test material, pattern 3 barely appeared in maven source code
-fuctions in maven source code has the frequent style of
+Because I used maven source code as a test material, pattern 3 barely appeared in maven source code. 
+Fuctions in maven source code has the frequent style of
 
 functionName() 
 
