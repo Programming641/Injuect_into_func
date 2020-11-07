@@ -12,6 +12,9 @@ python3 inject_func.py (top directory of java project )
 
 it will look for all java files under the specified top directory
 
+To delete all function tracing statements
+python3 inject_func.py top_java_directory delete FUNCTION_TRACING
+
 # cautions
 ・some functions that span multiple line are not supported yet
 
